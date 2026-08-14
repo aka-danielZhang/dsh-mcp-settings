@@ -1,0 +1,30 @@
+README.md
+  h_04d4cd0008e41d 17-18,30-31
+README.zh.md
+  h_04d4cd0008e41d 17-18,30-31
+src/client/IconPlug.tsx
+  h_04d4cd0008e41d 1-8
+src/client/McpServersTab.tsx
+  h_04d4cd0008e41d 15
+src/client/index.ts
+  h_04d4cd0008e41d 6,28,31-70
+src/manager-types.ts
+  h_04d4cd0008e41d 10-13
+src/manager.ts
+  h_04d4cd0008e41d 22,35-38
+tests/browser-plugin.client.spec.tsx
+  h_04d4cd0008e41d 22,27-32,34,40,45,57-66,80
+tsdown.config.ts
+  h_04d4cd0008e41d 79
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "3903c55fa605352e73acf6f4a53202ec2e212953",
+  "prompts": {},
+  "humans": {
+    "h_04d4cd0008e41d": {
+      "author": "aka-danielZhang <424011753@qq.com>"
+    }
+  }
+}
