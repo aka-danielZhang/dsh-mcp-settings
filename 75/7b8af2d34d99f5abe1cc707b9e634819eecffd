@@ -1,0 +1,82 @@
+.github/workflows/ci.yml
+  h_04d4cd0008e41d 1-48
+.gitignore
+  h_04d4cd0008e41d 1-5
+AGENTS.md
+  h_04d4cd0008e41d 1-7
+LICENSE
+  h_04d4cd0008e41d 1-21
+README.md
+  h_04d4cd0008e41d 1-107
+README.zh.md
+  h_04d4cd0008e41d 1-107
+cordis.patch.yml
+  h_04d4cd0008e41d 1-20
+package.json
+  h_04d4cd0008e41d 1-141
+pnpm-lock.yaml
+  h_04d4cd0008e41d 1-2586
+pnpm-workspace.yaml
+  h_04d4cd0008e41d 1-7
+src/client/McpServersTab.tsx
+  h_04d4cd0008e41d 1-406
+src/client/McpSettingsSection.module.css
+  h_04d4cd0008e41d 1-547
+src/client/McpSettingsSection.tsx
+  h_04d4cd0008e41d 1-38
+src/client/drafts.ts
+  h_04d4cd0008e41d 1-185
+src/client/index.ts
+  h_04d4cd0008e41d 1-58
+src/client/locales.ts
+  h_04d4cd0008e41d 1-122
+src/css-modules.d.ts
+  h_04d4cd0008e41d 1-6
+src/index.ts
+  h_04d4cd0008e41d 1-4
+src/invariant.ts
+  h_04d4cd0008e41d 1-20
+src/inventory-types.ts
+  h_04d4cd0008e41d 1-30
+src/inventory.ts
+  h_04d4cd0008e41d 1-38
+src/manager-types.ts
+  h_04d4cd0008e41d 1-73
+src/manager.ts
+  h_04d4cd0008e41d 1-322
+src/typert.host.ts
+  h_04d4cd0008e41d 1-37
+src/typert.remote-client.ts
+  h_04d4cd0008e41d 1-50
+tests/browser-plugin.client.spec.tsx
+  h_04d4cd0008e41d 1-88
+tests/components.client.spec.tsx
+  h_04d4cd0008e41d 1-511
+tests/invariant.client.spec.ts
+  h_04d4cd0008e41d 1-15
+tests/inventory.spec.ts
+  h_04d4cd0008e41d 1-104
+tests/manager.spec.ts
+  h_04d4cd0008e41d 1-339
+tsconfig.json
+  h_04d4cd0008e41d 1-23
+tsconfig.prepare.json
+  h_04d4cd0008e41d 1-14
+tsconfig.vitest.json
+  h_04d4cd0008e41d 1-11
+tsdown.config.ts
+  h_04d4cd0008e41d 1-128
+vitest.config.ts
+  h_04d4cd0008e41d 1-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "757b8af2d34d99f5abe1cc707b9e634819eecffd",
+  "prompts": {},
+  "humans": {
+    "h_04d4cd0008e41d": {
+      "author": "aka-danielZhang <424011753@qq.com>"
+    }
+  }
+}
