@@ -1,0 +1,26 @@
+README.md
+  h_04d4cd0008e41d 13,85
+README.zh.md
+  h_04d4cd0008e41d 13,85
+cordis.patch.yml
+  h_04d4cd0008e41d 1-2
+src/client/McpServersTab.tsx
+  h_04d4cd0008e41d 172,369-371,373-375,382-383,386
+src/client/index.ts
+  h_04d4cd0008e41d 38-42,54
+tests/browser-plugin.client.spec.tsx
+  h_04d4cd0008e41d 66-68
+tests/components.client.spec.tsx
+  h_04d4cd0008e41d 166,289-313
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "2340cb427508a25fd5a56631ec7691deca4a7e8a",
+  "prompts": {},
+  "humans": {
+    "h_04d4cd0008e41d": {
+      "author": "aka-danielZhang <424011753@qq.com>"
+    }
+  }
+}
