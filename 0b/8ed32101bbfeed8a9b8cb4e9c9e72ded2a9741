@@ -1,0 +1,20 @@
+CHANGELOG.md
+  h_04d4cd0008e41d 5-24
+package.json
+  h_04d4cd0008e41d 3
+src/client/McpServersTab.tsx
+  h_04d4cd0008e41d 466
+src/client/McpSettingsSection.module.css
+  h_04d4cd0008e41d 1-5,11,17-19,25-26,47-48,68,75,79,83-84,103-106,112,115-116,118-120,128,131-134,137-138,148,150-151,156,161-166,168-169,192-193,197-198,200,202,206,213-214,220,242,254,264-269,398-399,405-407,425-430,441,445-446,450-451,514,520-521,525-527,534,593
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "0b8ed32101bbfeed8a9b8cb4e9c9e72ded2a9741",
+  "prompts": {},
+  "humans": {
+    "h_04d4cd0008e41d": {
+      "author": "aka-danielZhang <424011753@qq.com>"
+    }
+  }
+}
