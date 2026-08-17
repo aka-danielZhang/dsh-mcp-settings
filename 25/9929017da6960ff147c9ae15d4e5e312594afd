@@ -1,0 +1,36 @@
+CHANGELOG.md
+  h_04d4cd0008e41d 1-33
+README.md
+  h_04d4cd0008e41d 75,77-79,104-112
+README.zh.md
+  h_04d4cd0008e41d 75,77-79,104-112
+package.json
+  h_04d4cd0008e41d 3,14,80,105
+src/client/McpServersTab.tsx
+  h_04d4cd0008e41d 6,8,10,16,27,67-73,83,91-93,105,113-115,141-144,151,158-161,166,203,273-276,337,339-378,385-386,391-392,410
+src/client/McpSettingsSection.module.css
+  h_04d4cd0008e41d 418-485,507
+src/client/drafts.ts
+  h_04d4cd0008e41d 19,31,41-48,62,66,81,85,144,148,156,163,199-203
+src/client/locales.ts
+  h_04d4cd0008e41d 36,40,51,101,105,116
+src/manager-types.ts
+  h_04d4cd0008e41d 29-30,51-52
+src/manager.ts
+  h_04d4cd0008e41d 18,44-45,70,81,109-123,132-137,142,145-151,153-160,177-180,198-209,217-222,245,258,261-262,287,325,332-334,337-338,347,349-350,356-360,367,374,388
+tests/components.client.spec.tsx
+  h_04d4cd0008e41d 75,85,194,200-203,215-221,223-224,230,404,409-411,413-420,481,483-484,490-495,514-515,524-525,553,556,563-567
+tests/manager.spec.ts
+  h_04d4cd0008e41d 14-17,82-107,124,309-394
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "259929017da6960ff147c9ae15d4e5e312594afd",
+  "prompts": {},
+  "humans": {
+    "h_04d4cd0008e41d": {
+      "author": "aka-danielZhang <424011753@qq.com>"
+    }
+  }
+}
