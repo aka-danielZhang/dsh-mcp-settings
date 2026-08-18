@@ -1,0 +1,14 @@
+CHANGELOG.md
+  h_04d4cd0008e41d 5-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "28f98e4e46e075583fa658df486c6cf05b5f19d1",
+  "prompts": {},
+  "humans": {
+    "h_04d4cd0008e41d": {
+      "author": "aka-danielZhang <424011753@qq.com>"
+    }
+  }
+}
